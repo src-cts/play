@@ -11,4 +11,3 @@ libraryDependencies ++= Seq(
   cache,
   javaWs
 )
-play.Project.playJavaSettings
